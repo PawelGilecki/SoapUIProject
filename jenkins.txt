@@ -1,0 +1,11 @@
+Right click and select Launch TestRunner
+
+cd C:\Program Files (x86)\SmartBear\SoapUI-5.5.0\bin\
+cmd.exe /C testrunner.bat -sTestSuite3 -cAssertions "C:\Users\PawelGilecki\Desktop\SoapUI tutorial\REST-Project-1-soapui-project.xml"
+
+4e76b19d518f4a0b973c506edd348fe7
+
+java -jar jenkins.war --httpPort=xxxx
+create new project->freestyle-detais
+
+run the job and validate results
